@@ -1,0 +1,2 @@
+# Training
+Knowledge sharing sessions
